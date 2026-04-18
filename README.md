@@ -1,13 +1,23 @@
-# skylv-docker-helper
+# Docker Helper
 
-docker helper - OpenClaw Skill
+> docker helper - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-docker-helper
 ```
 
-## Description
-An OpenClaw skill for docker helper.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-docker-helper
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
