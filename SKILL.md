@@ -1,8 +1,8 @@
 ---
 name: "docker-helper"
 slug: skylv-docker-helper
-version: 1.0.0
-description: "Docker助手。容器管理、镜像构建、Dockerfile优化。使用场景：(1) 容器操作，(2) Dockerfile编写，(3) 镜像构建，(4) 网络配置。"
+version: 1.0.2
+description: Docker assistant. Container management, image building, and Dockerfile optimization. Triggers: docker, container, dockerfile, docker build.
 author: SKY-lv
 license: MIT-0
 tags: [docker, openclaw, agent]
